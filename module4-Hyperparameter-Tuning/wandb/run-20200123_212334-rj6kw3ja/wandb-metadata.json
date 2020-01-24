@@ -1,0 +1,26 @@
+{
+    "root": "/Users/michelle/Downloads/DS-Unit-4-Sprint-2-Neural-Networks",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "git@github.com:michhottinger/DS-Unit-4-Sprint-2-Neural-Networks.git",
+        "commit": "ec6ac23f8c25e9a9a508a5fffebebb201cf06e24"
+    },
+    "email": "michhottinger@users.noreply.github.com",
+    "startedAt": "2020-01-23T21:23:34.183756",
+    "host": "michelles-mbp.lan",
+    "username": "michelle",
+    "executable": "/Users/michelle/opt/anaconda3/envs/U4-S2-NN/bin/python",
+    "os": "Darwin-17.7.0-x86_64-i386-64bit",
+    "python": "3.7.0",
+    "cpu_count": 4,
+    "args": [
+        "-f",
+        "/Users/michelle/Library/Jupyter/runtime/kernel-5e813d34-16b9-46cd-b059-91a1492c7343.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "floral-serenity-43",
+    "project": "ds9-boston",
+    "heartbeatAt": "2020-01-23T21:30:46.398900"
+}
